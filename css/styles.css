@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 html{
-    font-family: Arial, Helvetica;
+    font-family: 'open-sans', sans-serif;
 }
 
 .sidebar{
@@ -53,4 +53,33 @@ html{
     display: inline-block;
     padding: .5em;
     text-transform: uppercase;
+}
+.hab--proj{
+    background-color: #29597C;
+    color: white;
+    font-size: 12px;
+    display: inline-block;
+    padding: .5em;
+    text-transform: uppercase;
+}
+.projs{
+    margin-left:350px;
+    padding: 1em;
+    display: table;
+    text-align: justify;
+}
+.proj{
+    display: table-cell;
+    padding: 1em;
+    width: 50%;
+}
+.proj_img{
+    width: 100%;
+}
+.proj_title{
+    color: #29597C;
+    font-size: 18px;
+}
+.proj_descript{
+    color: #777777;
 }
