@@ -1,0 +1,1 @@
+alert("Hola wapa ;)\nDale clic a la foto para tener lo que quieres y deseas\nTe quiero xd");
